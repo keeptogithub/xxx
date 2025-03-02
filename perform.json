@@ -1,24 +1,48 @@
 [
        {
            "id":1,
+           "pertittle":"6IX9INE - Moonlight (XXXTENTACION Tribute LIVE @ Beach, Please! 2024) ",
+           "perimg":"https://keeptogithub.github.io/xxx/moonlight_perimg.jpg",
+           "pervid":"https://keeptogithub.github.io/xxx/moonlight_pervid.mp4"
+       },
+       {
+           "id":2,
+           "pertittle":"Hidden Ruby presents- XXXTENTACION's Revenge Tour Finale LIVE at Home in Bro ",
+           "perimg":"https://keeptogithub.github.io/xxx/ruby_perimg.jpg",
+           "pervid":"https://keeptogithub.github.io/xxx/ruby_pervid.mp4"
+       },
+       {
+           "id":3,
+           "pertittle":"TrippieRedd  XXXTentacion & 6ix9ine BEST LIVE SHOW in Miami ",
+           "perimg":"https://keeptogithub.github.io/xxx/redd_perimg.jpg",
+           "pervid":"https://keeptogithub.github.io/xxx/redd_pervid.mp4"
+       },
+       {
+           "id":4,
+           "pertittle":"XXXTentacion - Look At Me (LIVE FROM ROLLING LOUD 17) ",
+           "perimg":"https://keeptogithub.github.io/xxx/lookatme_perimg.jpg",
+           "pervid":"https://keeptogithub.github.io/xxx/lookatme_pervid.mp4"
+       },
+       {
+           "id":5,
+           "pertittle":"XXXTENTACION [FULL SET] Rolling Loud Miami 2018 ",
+           "perimg":"https://keeptogithub.github.io/xxx/lord_perimg.jpg",
+           "pervid":"https://keeptogithub.github.io/xxx/lord_pervid.mp4"
+       },
+       {
+           "id":6,
            "pertittle":"",
            "perimg":"https://keeptogithub.github.io/xxx/",
            "pervid":"https://keeptogithub.github.io/xxx/"
        },
        {
-           "id":2,
-           "pertittle":"",
-           "perimg":"https://keeptogithub.github.io/xxx/",
-           "pervid":"https://keeptogithub.github.io/xxx/"
-       }
-       {
-           "id":1,
+           "id":7,
            "pertittle":"",
            "perimg":"https://keeptogithub.github.io/xxx/",
            "pervid":"https://keeptogithub.github.io/xxx/"
        },
        {
-           "id":2,
+           "id":8,
            "pertittle":"",
            "perimg":"https://keeptogithub.github.io/xxx/",
            "pervid":"https://keeptogithub.github.io/xxx/"
