@@ -1,9 +1,9 @@
 {
-         "onepic":"https://keeptogithub.github.io/xxx/",
-         "twopic":"https://keeptogithub.github.io/xxx/",
-         "threepic":"https://keeptogithub.github.io/xxx/",
-         "fourpic":"https://keeptogithub.github.io/xxx/",
-         "fivepic":"https://keeptogithub.github.io/xxx/",
-         "sixpic":"https://keeptogithub.github.io/xxx/",
-         "sevenpic":"https://keeptogithub.github.io/xxx/"
+         "onepic":"https://keeptogithub.github.io/xxx/onepic.jpg",
+         "twopic":"https://keeptogithub.github.io/xxx/twopic.jpg",
+         "threepic":"https://keeptogithub.github.io/xxx/threepic.jpg",
+         "fourpic":"https://keeptogithub.github.io/xxx/fourpic.jpg",
+         "fivepic":"https://keeptogithub.github.io/xxx/fivepic.jpg",
+         "sixpic":"https://keeptogithub.github.io/xxx/sixpic.png",
+         "sevenpic":"https://keeptogithub.github.io/xxx/sevenpic.jpg"
 }
