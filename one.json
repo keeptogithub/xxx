@@ -43,24 +43,60 @@
     },
     {
         "id":8,
-        "onetittle":"",
-        "oneimg":"https://keeptogithub.github.io/xxx/",
-        "onevid":"https://keeptogithub.github.io/xxx/"
+        "onetittle":"XXXTENTACION - I Don't Wanna Do This Anymore (Audio) ",
+        "oneimg":"https://keeptogithub.github.io/xxx/idontwanna_oneimg.jpg",
+        "onevid":"https://keeptogithub.github.io/xxx/idontwanna_onevid.mp4"
     },
     {
         "id":9,
-        "onetittle":"",
-        "oneimg":"https://keeptogithub.github.io/xxx/",
-        "onevid":"https://keeptogithub.github.io/xxx/"
+        "onetittle":"XXXTENTACION - Jocelyn Flores (Audio) ",
+        "oneimg":"https://keeptogithub.github.io/xxx/jocelyn_oneimg.jpg",
+        "onevid":"https://keeptogithub.github.io/xxx/jocelyn_onevid.mp4"
     },
     {
         "id":10,
+        "onetittle":"XXXTENTACION - King (Audio) ",
+        "oneimg":"https://keeptogithub.github.io/xxx/king_oneimg.jpg",
+        "onevid":"https://keeptogithub.github.io/xxx/king_onevid.mp4"
+    },
+    {
+        "id":11,
+        "onetittle":"XXXTENTACION - Looking for a Star (Audio) ",
+        "oneimg":"https://keeptogithub.github.io/xxx/looking_star_oneimg.jpg",
+        "onevid":"https://keeptogithub.github.io/xxx/looking_star_onevid.mp4"
+    },
+    {
+        "id":12,
+        "onetittle":"XXXTENTACION - Orlando (Audio) ",
+        "oneimg":"https://keeptogithub.github.io/xxx/olando_oneimg.jpg",
+        "onevid":"https://keeptogithub.github.io/xxx/olando_onevid.mp4"
+    },
+    {
+        "id":13,
+        "onetittle":"XXXTENTACION - Revenge (Audio) ",
+        "oneimg":"https://keeptogithub.github.io/xxx/revenge_oneimg.jpg",
+        "onevid":"https://keeptogithub.github.io/xxx/revenge_onevid.mp4"
+    },
+    {
+        "id":14,
         "onetittle":"",
         "oneimg":"https://keeptogithub.github.io/xxx/",
         "onevid":"https://keeptogithub.github.io/xxx/"
     },
     {
-        "id":11,
+        "id":15,
+        "onetittle":"",
+        "oneimg":"https://keeptogithub.github.io/xxx/",
+        "onevid":"https://keeptogithub.github.io/xxx/"
+    }
+    {
+        "id":16,
+        "onetittle":"",
+        "oneimg":"https://keeptogithub.github.io/xxx/",
+        "onevid":"https://keeptogithub.github.io/xxx/"
+    },
+    {
+        "id":17,
         "onetittle":"",
         "oneimg":"https://keeptogithub.github.io/xxx/",
         "onevid":"https://keeptogithub.github.io/xxx/"
