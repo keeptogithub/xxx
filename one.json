@@ -92,13 +92,13 @@
     {
         "id":16,
         "onetittle":"XXXTENTACION - Slipknot (Audio) (feat. Kin$oul & Killstation) ",
-        "oneimg":"https://keeptogithub.github.io/xxx/",
-        "onevid":"https://keeptogithub.github.io/xxx/"
+        "oneimg":"https://keeptogithub.github.io/xxx/slipnot_oneimg.jpg",
+        "onevid":"https://keeptogithub.github.io/xxx/slipnot_onevid.mp4"
     },
     {
         "id":17,
-        "onetittle":"",
-        "oneimg":"https://keeptogithub.github.io/xxx/",
-        "onevid":"https://keeptogithub.github.io/xxx/"
+        "onetittle":"XXXTENTACION - YuNg BrAtZ (Audio) ",
+        "oneimg":"https://keeptogithub.github.io/xxx/yung_oneimg.jpg",
+        "onevid":"https://keeptogithub.github.io/xxx/yung_onevid.mp4"
     }
 ]
