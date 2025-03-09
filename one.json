@@ -1,6 +1,42 @@
 [
     {
         "id":1,
+        "onetittle":"XXXTENTACION - Ayala (Outro) (Audio) ",
+        "oneimg":"https://keeptogithub.github.io/xxx/ayala_oneimg.jpg",
+        "onevid":"https://keeptogithub.github.io/xxx/ayala_onevid.mp4"
+    },
+    {
+        "id":2,
+        "onetittle":"XXXTENTACION - Carry On (Audio)  ",
+        "oneimg":"https://keeptogithub.github.io/xxx/carryon_oneimg.jpg",
+        "onevid":"https://keeptogithub.github.io/xxx/carryon_onevid.mp4"
+    },
+    {
+        "id":3,
+        "onetittle":"XXXTENTACION - changes ",
+        "oneimg":"https://keeptogithub.github.io/xxx/changes_oneimg.jpg",
+        "onevid":"https://keeptogithub.github.io/xxx/changes_onevid.mp4"
+    },
+    {
+        "id":4,
+        "onetittle":"XXXTENTACION - Dead Inside (Interlude) (Audio) ",
+        "oneimg":"https://keeptogithub.github.io/xxx/dead_inside_oneimg.jpg",
+        "onevid":"https://keeptogithub.github.io/xxx/dead_inside_onevid.mp4"
+    },
+    {
+        "id":5,
+        "onetittle":"",
+        "oneimg":"https://keeptogithub.github.io/xxx/",
+        "onevid":"https://keeptogithub.github.io/xxx/"
+    },
+    {
+        "id":6,
+        "onetittle":"",
+        "oneimg":"https://keeptogithub.github.io/xxx/",
+        "onevid":"https://keeptogithub.github.io/xxx/"
+    },
+    {
+        "id":7,
         "onetittle":"",
         "oneimg":"https://keeptogithub.github.io/xxx/",
         "onevid":"https://keeptogithub.github.io/xxx/"
