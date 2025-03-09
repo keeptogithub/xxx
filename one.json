@@ -25,18 +25,42 @@
     },
     {
         "id":5,
-        "onetittle":"",
-        "oneimg":"https://keeptogithub.github.io/xxx/",
-        "onevid":"https://keeptogithub.github.io/xxx/"
+        "onetittle":"XXXTENTACION - Depression & Obsession (Audio) ",
+        "oneimg":"https://keeptogithub.github.io/xxx/depression_oneimg.jpg",
+        "onevid":"https://keeptogithub.github.io/xxx/depression_onevid.mp4"
     },
     {
         "id":6,
+        "onetittle":"XXXTENTACION - Everybody Dies In Their Nightmares (Audio) ",
+        "oneimg":"https://keeptogithub.github.io/xxx/everyone_oneimg.jpg",
+        "onevid":"https://keeptogithub.github.io/xxx/everyone_onevid.mp4"
+    },
+    {
+        "id":7,
+        "onetittle":"XXXTENTACION - Fuck Love (Audio) (feat. Trippie Redd) ",
+        "oneimg":"https://keeptogithub.github.io/xxx/fucklove_oneimg.jpg",
+        "onevid":"https://keeptogithub.github.io/xxx/fucklove_onevid.mp4"
+    },
+    {
+        "id":8,
         "onetittle":"",
         "oneimg":"https://keeptogithub.github.io/xxx/",
         "onevid":"https://keeptogithub.github.io/xxx/"
     },
     {
-        "id":7,
+        "id":9,
+        "onetittle":"",
+        "oneimg":"https://keeptogithub.github.io/xxx/",
+        "onevid":"https://keeptogithub.github.io/xxx/"
+    },
+    {
+        "id":10,
+        "onetittle":"",
+        "oneimg":"https://keeptogithub.github.io/xxx/",
+        "onevid":"https://keeptogithub.github.io/xxx/"
+    },
+    {
+        "id":11,
         "onetittle":"",
         "oneimg":"https://keeptogithub.github.io/xxx/",
         "onevid":"https://keeptogithub.github.io/xxx/"
