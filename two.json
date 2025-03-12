@@ -1,14 +1,50 @@
 [
      {
           "id":1,
-          "twotittle":"",
-          "twoimg":"https://keeptogithub.github.io/xxx/",
-          "twovid":"https://keeptogithub.github.io/xxx/"
+          "twotittle":"XXXTENTACION - difference (interlude) (Audio)  ",
+          "twoimg":"https://keeptogithub.github.io/xxx/i_twoimg.jpg",
+          "twovid":"https://keeptogithub.github.io/xxx/diference_twovid.mp4"
      },
      {
-          "id":1,
-          "twotittle":"",
-          "twoimg":"https://keeptogithub.github.io/xxx/",
-          "twovid":"https://keeptogithub.github.io/xxx/"
+          "id":2,
+          "twotittle":"XXXTENTACION - Guardian angel (Audio) ",
+          "twoimg":"https://keeptogithub.github.io/xxx/i_twoimg.jpg",
+          "twovid":"https://keeptogithub.github.io/xxx/guardian_twovid.mp4"
+     },
+     {
+          "id":3,
+          "twotittle":"XXXTENTACION - I don’t let go (Audio) ",
+          "twoimg":"https://keeptogithub.github.io/xxx/i_twoimg.jpg",
+          "twovid":"https://keeptogithub.github.io/xxx/idontletgo_twovid.mp4"
+     }
+     {
+          "id":4,
+          "twotittle":"XXXTENTACION - One Minute (Audio) (feat. Kanye West) ",
+          "twoimg":"https://keeptogithub.github.io/xxx/i_twoimg.jpg",
+          "twovid":"https://keeptogithub.github.io/xxx/oneminute_twovid.mp4"
+     },
+     {
+          "id":5,
+          "twotittle":"XXXTENTACION - STARING AT THE SKY (Audio) ",
+          "twoimg":"https://keeptogithub.github.io/xxx/i_twoimg.jpg",
+          "twovid":"https://keeptogithub.github.io/xxx/onstaring_twovid.mp4"
+     },
+     {
+          "id":6,
+          "twotittle":"XXXTENTACION - Train food (Audio) ",
+          "twoimg":"https://keeptogithub.github.io/xxx/i_twoimg.jpg",
+          "twovid":"https://keeptogithub.github.io/xxx/trainfood_twovid.mp4"
+     },
+     {
+          "id":7,
+          "twotittle":"XXXTENTACION - what are you so afraid of (Audio) ",
+          "twoimg":"https://keeptogithub.github.io/xxx/i_twoimg.jpg",
+          "twovid":"https://keeptogithub.github.io/xxx/whatareaffair_twovid.mp4"
+     },
+     {
+          "id":8,
+          "twotittle":"XXXTENTACION - whoa (mind in awe) (Audio) ",
+          "twoimg":"https://keeptogithub.github.io/xxx/i_twoimg.jpg",
+          "twovid":"https://keeptogithub.github.io/xxx/whoa_twovid.mp4"
      }
 ]
